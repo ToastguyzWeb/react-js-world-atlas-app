@@ -15,8 +15,6 @@ Explore the world through an interactive and informative interface that displays
 - ⚡ **Real-time Data** from REST Countries API
 - 🎨 **Clean Bootstrap UI** with modern styling
 
-<br/>
-
 ## 🚀 Live Demo
 Check out the live application:
 👉 [Visit World Atlas App Here](https://tg-react-world-atlas.netlify.app/) 
